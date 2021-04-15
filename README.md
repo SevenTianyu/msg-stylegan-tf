@@ -1,3 +1,4 @@
+# 文献【42】代码
 # MSG-STYLEGAN-TF
 ## Official code repository for the paper "MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks" [[arXiv]](https://arxiv.org/abs/1903.06048)
 <p align="center">
